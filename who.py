@@ -249,7 +249,7 @@ basecamp = f'https://{username}.basecamphq.com/login'
 
 ''' WEBSITE LIST - USE FOR SEARCHING OF USERNAME '''
 WEBSITES = [
-instagram, facebook, twitter, youtube, blogger, google_plus, reddit,
+telegram, instagram, facebook, twitter, youtube, blogger, google_plus, reddit,
 wordpress, pinterest, github, tumblr, flickr, steam, vimeo, soundcloud, disqus, 
 medium, deviantart, vk, aboutme, imgur, flipboard, slideshare, fotolog, spotify,
 mixcloud, scribd, badoo, patreon, bitbucket, dailymotion, etsy, cashme, behance,
