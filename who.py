@@ -295,7 +295,7 @@ def search():
     print('.......\n')
     time.sleep(0.5)
 
-    GREEN(f'[+] Looking-Glass v1.00 is working\n')
+    GREEN(f'[+] Who? in working\n')
     time.sleep(0.5)
     print('.......')
     time.sleep(0.5)
