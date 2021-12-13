@@ -18,6 +18,9 @@ def banner():
 username = input(' Enter username to DOX: ')
 
 
+# TELEGRAM
+telegram = f'https://t.me/{username}'
+
 # INSTAGRAM
 instagram = f'https://www.instagram.com/{username}'
 
