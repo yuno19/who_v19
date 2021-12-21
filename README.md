@@ -33,7 +33,7 @@
  cd who_v19
 ```
 ```
-* python3 who.py
+ python3 who.py
 ```
 
 ### Pm me on
