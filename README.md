@@ -37,7 +37,7 @@ Doxing, written in Python to search your goal, based on a simple and complete st
 
 ### Pm me on
 
-* ![telegram](https://t.me@GHOST19_P)
+<b>[telegram](https://t.me@GHOST19_P)</b>
 
 
 
