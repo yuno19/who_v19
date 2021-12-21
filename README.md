@@ -8,7 +8,7 @@
 
 ### ABOUT
 
-Doxing, written in Python to search your goal, based on a simple and complete structure for anyone to use, modify and share, the goal is to find information in the easiest way of your victim, stalker, etc. Whose technique is called doxing, espionage and information gathering. The current version is completely stable. Automate the search since each option gives you a website so you can search for people's data.
+> Doxing, written in Python to search your goal, based on a simple and complete structure for anyone to use, modify and share, the goal is to find information in the easiest way of your victim, stalker, etc. Whose technique is called doxing, espionage and information gathering. The current version is completely stable. Automate the search since each option gives you a website so you can search for people's data.
 
 ### SUPPORTED DISTRIBUTIONS
 
@@ -29,11 +29,12 @@ Doxing, written in Python to search your goal, based on a simple and complete st
 * Internet
 
 ### Installation
-
-* cd who_v19
-
+```
+ cd who_v19
+```
+```
 * python3 who.py
-
+```
 
 ### Pm me on
 
