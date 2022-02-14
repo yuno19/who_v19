@@ -17,6 +17,8 @@ def banner():
 ''' INPUT USERNMAE TO DOX '''
 username = input(' Enter username to DOX: ')
 
+#GITHUB
+github = f'https://github.com/{username}'
 
 # TELEGRAM
 telegram = f'https://t.me/{username}'
@@ -249,7 +251,7 @@ basecamp = f'https://{username}.basecamphq.com/login'
 
 ''' WEBSITE LIST - USE FOR SEARCHING OF USERNAME '''
 WEBSITES = [
-telegram, instagram, facebook, twitter, youtube, blogger, google_plus, reddit,
+github,telegram, instagram, facebook, twitter, youtube, blogger, google_plus, reddit,
 wordpress, pinterest, github, tumblr, flickr, steam, vimeo, soundcloud, disqus, 
 medium, deviantart, vk, aboutme, imgur, flipboard, slideshare, fotolog, spotify,
 mixcloud, scribd, badoo, patreon, bitbucket, dailymotion, etsy, cashme, behance,
